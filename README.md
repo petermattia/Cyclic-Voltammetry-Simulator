@@ -3,4 +3,3 @@ A simple cyclic voltammetry simulator created using MATLAB’s App Designer. Cre
 
 Based on Bard and Faulkner, 2nd edition, Appendix B.
 
-![alt text](https://raw.githubusercontent.com/petermattia/Cyclic-Voltammetry-Simulator/master/screenshot.png)
