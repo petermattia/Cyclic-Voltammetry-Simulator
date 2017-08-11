@@ -1,0 +1,59 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration build-checksum="3933355279" file="/Users/peter/Documents/GitHub/Cyclic-Voltammetry-Simulator/Cyclic Voltammetry simulator.prj" location="/Users/peter/Documents/GitHub/Cyclic-Voltammetry-Simulator" name="Cyclic Voltammetry simulator" target="target.mlapps" target-name="Package App">
+    <param.appname>Cyclic Voltammetry simulator</param.appname>
+    <param.authnamewatermark>Peter Attia</param.authnamewatermark>
+    <param.email>peter.m.attia@gmail.com</param.email>
+    <param.company>Stanford University</param.company>
+    <param.icon />
+    <param.icons />
+    <param.summary>Cyclic Voltammetry simulator, based on Bard and Faulkner Appendix B.</param.summary>
+    <param.description />
+    <param.screenshot>${PROJECT_ROOT}/screenshot.png</param.screenshot>
+    <param.version>1.5</param.version>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
+    <param.platforms />
+    <param.output>/Users/peter/Documents/GitHub/Cyclic-Voltammetry-Simulator</param.output>
+    <param.guid>2c8d5792-d03c-4253-bce2-a6ebe07272de</param.guid>
+    <unset>
+      <param.icon />
+      <param.icons />
+      <param.description />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
+      <param.platforms />
+      <param.output />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}/CVsimapp.mlapp</file>
+    </fileset.main>
+    <fileset.depfun />
+    <fileset.resources />
+    <fileset.package />
+    <build-deliverables>
+      <file location="/Users/peter/Documents/GitHub" name="Cyclic-Voltammetry-Simulator" optional="false">/Users/peter/Documents/GitHub/Cyclic-Voltammetry-Simulator</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>/Applications/MATLAB_R2017a.app</root>
+      <toolboxes />
+    </matlab>
+    <platform>
+      <unix>true</unix>
+      <mac>true</mac>
+      <windows>false</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.12.6</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>maci64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
