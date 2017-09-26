@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="3933355279" file="/Users/peter/Documents/GitHub/Cyclic-Voltammetry-Simulator/Cyclic Voltammetry simulator.prj" location="/Users/peter/Documents/GitHub/Cyclic-Voltammetry-Simulator" name="Cyclic Voltammetry simulator" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="2352020537" file="/Users/peter/Documents/GitHub/Cyclic-Voltammetry-Simulator/Cyclic Voltammetry simulator.prj" location="/Users/peter/Documents/GitHub/Cyclic-Voltammetry-Simulator" name="Cyclic Voltammetry simulator" target="target.mlapps" target-name="Package App">
     <param.appname>Cyclic Voltammetry simulator</param.appname>
     <param.authnamewatermark>Peter Attia</param.authnamewatermark>
     <param.email>peter.m.attia@gmail.com</param.email>
@@ -9,7 +9,7 @@
     <param.summary>Cyclic Voltammetry simulator, based on Bard and Faulkner Appendix B.</param.summary>
     <param.description />
     <param.screenshot>${PROJECT_ROOT}/screenshot.png</param.screenshot>
-    <param.version>1.5</param.version>
+    <param.version>2.0</param.version>
     <param.products.name />
     <param.products.id />
     <param.products.version />
